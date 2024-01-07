@@ -26,6 +26,10 @@ Project Requirements:
 7.Billing and Invoicing (10 points):
  Enable users to create new invoices, add products to invoices, and calculate the total bill amount.
 
+
+
+ I made this project for my friend's brother who is currently studying in first year
+
 8. Documentation (10 points):
    	Provide documentation for the code, including class descriptions, function descriptions and examples of usage.
 
